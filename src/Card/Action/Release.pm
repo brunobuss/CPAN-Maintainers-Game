@@ -14,3 +14,5 @@ has 'set2' => (
 
 sub action {
 } 
+
+42;

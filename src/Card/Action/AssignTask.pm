@@ -4,3 +4,5 @@ use Moose::Role;
 #One opponent needs to pay 5 patches to you.
 sub action {
 } 
+
+42;

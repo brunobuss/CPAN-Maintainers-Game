@@ -9,4 +9,5 @@ has 'set' => (
         isa => 'Card::Set',
         required => 1,
 );
-        
+
+42;

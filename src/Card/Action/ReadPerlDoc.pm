@@ -9,3 +9,5 @@ has 'buy_qnty' => (
 
 sub action {
 } 
+
+42;

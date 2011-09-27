@@ -1,5 +1,4 @@
 package Card;
-
 use Moose;
 
 #The card name.
@@ -16,3 +15,4 @@ has 'patch_value' => (
         required => 1,
 );
 
+42;
