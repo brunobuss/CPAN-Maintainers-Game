@@ -1,0 +1,9 @@
+This is a game for 2-4 players, based on mechanics of Monopoly Deal[1].
+
+The theme of the game is that players are (new) CPAN Maintainers and they want to maintain the coolest modules in CPAN (you know, Perl programmers loves Perl).
+As in Monopoly Deal, all modules have one color and the objective is to complete 3 full sets.
+
+Of course, this game is made in Perl, with SDL for the client :)
+
+
+[1]http://www.boardgamegeek.com/boardgame/40398/monopoly-deal-card-game
